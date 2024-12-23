@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error and its solution. The `bug.ts` file contains code that attempts to pass a string array to a function expecting a single string. This results in a type error. The `bugSolution.ts` file provides a solution by either modifying the function signature to accept an array or handling the array appropriately within the function.
